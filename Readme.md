@@ -1,15 +1,4 @@
-## Go E-Commerce Series Complete Course : For Node.JS developers
-
-This Course will guide you how we can build an e-commerce backend application using Go from scratch.
-It's all about how to Build Go Backend System from Scratch to Production-ready Monolithic to Microservice. Go E-commerce Series is a complete course based on the Go ecosystem where you can learn GO from scratch to a professional level. We will be covering the following topics throughout this series.
-
-
-### Prerequisites:
-    - Basic understanding of any programing language
-    - Willing to learn new technology
-    - Install Docker
-    - Install Go
-    - NodeJS & Nodemon for Hot reloading
+loading
 
 ### Episodes:
     
@@ -67,10 +56,6 @@ It's all about how to Build Go Backend System from Scratch to Production-ready M
     Episode 37: Master CI/CD for Go Apps: Step-by-Step GitHub Integration Guide [Part 37]
     Episode 38: Go Microservices: A Comprehensive Overview for Developers [Part 38]
 
-### What is next?
-We have advanced microservices series available on our Learning Platform.
-
-[🚀 Mastering Go Microservices: Advanced Techniques for Developers](https://codewithjay.com/preview/67a7d9a148204d3acd8ebea3)
 
 ### Postman Collection:
 https://documenter.getpostman.com/view/8734310/2sA3BkcD5x
